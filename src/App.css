@@ -1,0 +1,11 @@
+body{
+  background-image: url("./assets/pexels-eberhardgross-1624496.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: rgba(0,0,0,0.3);
+  box-sizing: border-box;
+  height: 100vh;
+}
